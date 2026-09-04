@@ -45,7 +45,7 @@ export default function App() {
     <main className="container">
       <header>
         <p className="eyebrow">DEVOPS PRACTICE PROJECT</p>
-        <h1>TaskFlow</h1>
+        <h1>TaskFlow CI/CD</h1>
         <p>Simple task management application for learning CI/CD.</p>
       </header>
 
